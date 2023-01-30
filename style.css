@@ -80,10 +80,10 @@ li:hover {
 
 @media (max-width: 768px) {
     .bgimg {
-      background-attachment: initial;
+      background-attachment: scroll;
     }  
   }
-  
+
 /********************/
 /* Gallery/Projects */
 
