@@ -78,12 +78,11 @@ li:hover {
     background-attachment: fixed;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .bgimg {
-      background-attachment: scroll;
+      background-attachment: initial;
     }  
   }
-
 /********************/
 /* Gallery/Projects */
 
